@@ -1,6 +1,6 @@
 # Intoduction
 
-The repository is of a website showing details of COVID-19. The website is made up using react. You  can check the website my click on [Covid-19 Info](https://surajsrv11.github.io/covid19-info/)
+The repository is of a website showing details of COVID-19. The website is made up using react. You  can check the website my click on [Covid-19 Info](https://surajondev.github.io/covid19-info/)
 
 ## Following languages have been used
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML
