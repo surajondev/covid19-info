@@ -1,4 +1,5 @@
-# Intoduction
+# COVID-19 INFO
+
 
 The repository is of a website showing details of COVID-19. The website is made up using react. You  can check the website my click on [Covid-19 Info](https://surajondev.github.io/covid19-info/)
 
