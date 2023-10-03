@@ -1,0 +1,74 @@
+body {
+    background-color: #f8efd4;
+    margin: 0;
+    font-family: Arial, sans-serif; /* Added a font-family for better compatibility */
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 1.5rem;
+    background: #edc988;
+    padding: 0.25em;
+    font-weight: 600; /* Changed font-weight to a valid value */
+    margin-bottom: 20px; /* Added some spacing at the bottom */
+  }
+  
+  .footer {
+    text-align: center;
+    font-size: 0.75rem;
+    background: #edc988;
+    padding: 0.1em;
+    font-weight: 600; /* Changed font-weight to a valid value */
+    margin-top: 20px; /* Added some spacing at the top */
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px; /* Added some spacing at the top */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 95%;
+    margin: 0 auto;
+    max-width: 980px;
+  }
+  
+  .col-small {
+    width: 25%;
+  }
+  
+  .col-big {
+    padding: 1em; /* Adjusted padding for smaller screens */
+    width: 100%;
+  }
+  
+  .col {
+    background: #d7385e;
+    color: #fff;
+    padding: 1em; /* Adjusted padding for smaller screens */
+    margin: 10px;
+    border-radius: 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column;
+    }
+    .col-small,
+    .col-big {
+      width: 100%; /* Changed width to occupy full width on smaller screens */
+      padding: 1em; /* Adjusted padding for smaller screens */
+      margin: 10px 0; /* Added margin to separate columns */
+    }
+  }
+  
+  .name {
+    color: #132743;
+  }
+  
+  .data {
+    color: #7579e7;
+  }
+  
